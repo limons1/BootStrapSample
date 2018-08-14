@@ -1,1 +1,2 @@
-# BootStrapSample  Example of simple website created through Bootstrap
+# BootStrapSample #
+Example of simple website created through Bootstrap
